@@ -1,0 +1,16 @@
+{
+  "name": "idcard-generator",
+  "version": "0.0.3",
+  "description": "a idcard generator",
+  "homepage": "https://github.com/Ice-Hazymoon/idcard_generator",
+  "author": "Ice-Hazymoon",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "sharp": "^0.22.1",
+    "text-to-svg": "^3.1.5"
+  },
+  "license": "MIT"
+}
